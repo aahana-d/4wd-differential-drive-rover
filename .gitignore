@@ -1,0 +1,11 @@
+# Ignore personal workspace settings containing machine-specific paths
+.vscode/settings.json
+
+# If you use extensions that create temporary history/state inside .vscode
+.vscode/.history/
+
+# Ensure C/C++ IntelliSense configurations are explicitly tracked
+!.vscode/c_cpp_properties.json
+
+basestation/
+firmware/
