@@ -7,5 +7,4 @@
 # Ensure C/C++ IntelliSense configurations are explicitly tracked
 !.vscode/c_cpp_properties.json
 
-basestation/
-firmware/
+build/
